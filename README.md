@@ -1,4 +1,4 @@
-# BlogTest
+# Alpinax
 
 To start your Phoenix server:
 
